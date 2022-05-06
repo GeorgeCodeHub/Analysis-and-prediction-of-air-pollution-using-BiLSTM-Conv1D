@@ -3,7 +3,7 @@
 <br/>
 The goal was to use Neural Networks to predict future values from historical data in specific locations. 
 
-In the context of the master thesis, 6 research papers were studied for the different types of neural network models on data related to air pollution and time series forecasting.
+In the context of this master thesis, 6 research papers were studied for the different types of neural network models on data related to air pollution and time series forecasting.
 
 1. [An LSTM-based aggregated model for air pollution forecasting](https://www.sciencedirect.com/science/article/pii/S1309104220301215)
 2. [A Bayesian LSTM model to evaluate the effects of air pollution control regulations in Beijing, China](https://www.sciencedirect.com/science/article/abs/pii/S1462901120313538)
